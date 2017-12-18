@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-15 05:54:05</sys_created_on>
+        <sys_id>f737f12567030300771223f02585ef1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_nhlnow_teams.sn_nhlnow.teams_user</sys_name>
+        <sys_package display_value="nhlnow" source="sn_nhlnow">d5f5b1e167030300771223f02585ef24</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="nhlnow">d5f5b1e167030300771223f02585ef24</sys_scope>
+        <sys_security_acl display_value="sn_nhlnow_teams">ff37f12567030300771223f02585ef18</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f737f12567030300771223f02585ef1b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-15 05:54:05</sys_updated_on>
+        <sys_user_role display_value="sn_nhlnow.teams_user" name="sn_nhlnow.teams_user">ab37b1e167030300771223f02585ef2d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

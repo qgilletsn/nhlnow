@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Players" max_length="40" name="sn_nhlnow_players" type="collection"/>
+</database>
