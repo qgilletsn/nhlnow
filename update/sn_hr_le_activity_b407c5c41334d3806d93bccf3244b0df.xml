@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sn_hr_le_activity">
+    <sn_hr_le_activity action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_set display_value="Pre-boarding">6214c370e7723200c1dc8a63c2f6a940</activity_set>
+        <activity_type>fulfiller</activity_type>
+        <approval_accept_option>anyone</approval_accept_option>
+        <approval_reject_option>resubmit</approval_reject_option>
+        <approver_groups/>
+        <approver_users/>
+        <approvers/>
+        <badge display_value="IT">ab596617c3b00300b599b4ad81d3ae8b</badge>
+        <catalog_item/>
+        <cmdb_model/>
+        <description>Test Order Guide</description>
+        <email_template/>
+        <from/>
+        <fulfiller_activity display_value="Automated Order Guide">bfe0fd8b9f0032002b76d126c42e7017</fulfiller_activity>
+        <hr_criteria/>
+        <hr_service/>
+        <hr_template/>
+        <missing_all_approvers>substitute</missing_all_approvers>
+        <missing_some_approvers>skip</missing_some_approvers>
+        <order_guide display_value="Employee Onboarding">d468b887530032002b76da86a11c08d7</order_guide>
+        <owning_group display_value="IT Support Engineering Team" name="IT Support Engineering Team">ebc8da19db152200b8b4f8ecbf9619bd</owning_group>
+        <recipient_fields/>
+        <recipient_groups/>
+        <recipient_users/>
+        <sys_class_name>sn_hr_le_activity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-07 10:23:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>b407c5c41334d3806d93bccf3244b0df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Order Guide</sys_name>
+        <sys_package display_value="nhlnow" source="sn_nhlnow">d5f5b1e167030300771223f02585ef24</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="nhlnow">d5f5b1e167030300771223f02585ef24</sys_scope>
+        <sys_update_name>sn_hr_le_activity_b407c5c41334d3806d93bccf3244b0df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-07 10:23:39</sys_updated_on>
+        <system_template/>
+        <title>Test Order Guide</title>
+        <use_badge_on_hr_service>false</use_badge_on_hr_service>
+    </sn_hr_le_activity>
+</record_update>

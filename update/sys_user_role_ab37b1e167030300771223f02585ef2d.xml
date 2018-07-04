@@ -8,7 +8,7 @@
         <grantable>true</grantable>
         <includes_roles/>
         <name>sn_nhlnow.teams_user</name>
-        <snbe>false</snbe>
+        <scoped_admin>false</scoped_admin>
         <suffix>teams_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>

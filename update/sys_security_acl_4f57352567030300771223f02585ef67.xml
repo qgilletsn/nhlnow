@@ -6,7 +6,6 @@
         <advanced>false</advanced>
         <condition/>
         <description>Default access control on sn_nhlnow_players</description>
-        <express_security>false</express_security>
         <name>sn_nhlnow_players</name>
         <operation display_value="create">create</operation>
         <script/>
